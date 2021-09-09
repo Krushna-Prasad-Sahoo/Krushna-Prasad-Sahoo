@@ -4,7 +4,12 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Krushna-Prasad-Sahoo&count_private=true&show_icons=true&include_all_commits=true" alt="ishikagarg-ig" /></p>
 
+
 <!--
+
+#### `What drives me ..`
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff00&vCenter=true&lines=Are+you+satisfied+with+what+you+are%3F)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krushna-Prasad-Sahoo&show_icons=true&locale=en&layout=compact" alt="ishikagarg-ig" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krushna-Prasad-Sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagarg-ig" /> </p>
