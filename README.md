@@ -6,7 +6,7 @@
 
 <br />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff95&vCenter=true&lines=You+wanna+connect+me%3F)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff95&vCenter=true&lines=You+wanna+connect+with+me%3F)
 
 <a href="https://www.linkedin.com/in/krushna-prasad/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
