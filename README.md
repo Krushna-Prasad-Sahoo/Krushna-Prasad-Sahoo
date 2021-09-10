@@ -4,8 +4,26 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Krushna-Prasad-Sahoo&count_private=true&show_icons=true&include_all_commits=true" alt="ishikagarg-ig" /></p>
 
-
 <!--
+<a href="https://www.linkedin.com/in/krushna-prasad/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/kunalstwt">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:kunalkushwaha453@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="http://dev.to/kunal">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
+<br />
+
+
 
 #### `What drives me ..`
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff00&vCenter=true&lines=Are+you+satisfied+with+what+you+are%3F)
