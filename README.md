@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/krushna-prasad/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="mailto:kunalkushwaha453@gmail.com">
+<a href="mailto:advancekp77@gmail.com@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCZCINysslGbXPQHXTIHea9w">
