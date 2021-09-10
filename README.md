@@ -4,7 +4,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Krushna-Prasad-Sahoo&count_private=true&show_icons=true&include_all_commits=true" alt="ishikagarg-ig" /></p>
 
-<!--
+<br />
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff95&vCenter=true&lines=You+wanna+connect+me%3F)
+
 <a href="https://www.linkedin.com/in/krushna-prasad/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -20,7 +23,7 @@
 
 <br />
 
-
+<!--
 
 #### `What drives me ..`
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff00&vCenter=true&lines=Are+you+satisfied+with+what+you+are%3F)
