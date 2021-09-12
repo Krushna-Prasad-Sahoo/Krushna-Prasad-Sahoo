@@ -2,7 +2,10 @@
 
 ## Aloha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Krushna Prasad!](https://heykrushna.xyz/) 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff00&vCenter=true&lines=I+believe+in+...)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=EDBB99&vCenter=true&lines=I+believe+in+...)
+
+#### `Continuous Learning & Continuous Development`
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Krushna-Prasad-Sahoo&count_private=true&show_icons=true&include_all_commits=true" alt="ishikagarg-ig" /></p>
 
@@ -25,7 +28,7 @@
 
 <br />
 
-<!-
+<!--
 
 #### `What drives me ..`
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff00&vCenter=true&lines=Are+you+satisfied+with+what+you+are%3F)
