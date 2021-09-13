@@ -10,11 +10,10 @@
 <br/>
 <a href="#">
     <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Krushna-Prasad-Sahoo&show_icons=true&theme=tokyonight" alt="my github stats" width="500"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Krushna-Prasad-Sahoo&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" alt="my github stats" width="500"/><br/>
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushna-Prasad-Sahoo&layout=compact&theme=tokyonight" alt="languages" height="196">-->
     </p>
 </a>
-
 <br />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff95&vCenter=true&lines=Wanna+share+your+idea+with+me%3F)
