@@ -9,9 +9,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Krushna-Prasad-Sahoo&count_private=true&show_icons=true&include_all_commits=true" alt="ishikagarg-ig" /></p>
 --
-<a href="https://gokulap.hashnode.dev/">
+<a href="#">
     <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=gokulapap&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulapap&layout=compact&theme=tokyonight" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=Krushna-Prasad-Sahoo&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+        
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulapap&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
 --
