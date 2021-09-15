@@ -5,7 +5,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=EDBB99&vCenter=true&lines=I+believe+in+...)
 
-#### `Continuous Learning & Continuous Development`
+### `Continuous Learning & Continuous Development`
 
 <br/>
 <a href="#">
