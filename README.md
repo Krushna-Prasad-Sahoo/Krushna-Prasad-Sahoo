@@ -8,6 +8,7 @@
 ### `First DESERVE, then DESIRE`
 ### `Continuous Learning & Continuous Development`
 ### `Miles to go before I sleep`
+### `Every mistake you make, shows your progress`
 
 <br/>
 <a href="#">
