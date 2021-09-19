@@ -6,9 +6,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=EDBB99&vCenter=true&lines=I+believe+in+...)
 
 #### `First DESERVE, then DESIRE`
-#### `Miles to go before I sleep`
+#### `MILES to go before I sleep`
 #### `Continuous Learning & Continuous Development`
-#### `Every mistake you make, shows your progress`
+#### `Every MISTAKE you make, shows your PROGRESS`
 
 <br/>
 <a href="#">
