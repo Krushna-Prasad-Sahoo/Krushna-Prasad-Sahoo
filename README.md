@@ -5,7 +5,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=EDBB99&vCenter=true&lines=I+believe+in+...)
 
-#### `impossible == I'M-POSSIBLE`
+#### `impossible == I'M POSSIBLE`
 #### `First DESERVE, then DESIRE`
 #### `MILES to go before I sleep`
 #### `Continuous Learning & Continuous Development`
