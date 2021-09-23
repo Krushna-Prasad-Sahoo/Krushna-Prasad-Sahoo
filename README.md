@@ -20,6 +20,10 @@
 </a>
 <br />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krushna-Prasad-Sahoo&show_icons=true&locale=en&layout=compact" alt="ishikagarg-ig" /></p>
+
+<br/>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff95&vCenter=true&lines=Wanna+share+your+idea+with+me%3F)
 
 <a href="https://www.linkedin.com/in/krushna-prasad/">
@@ -36,6 +40,7 @@
 </a>
 
 <br />
+
 
 <!--
 
