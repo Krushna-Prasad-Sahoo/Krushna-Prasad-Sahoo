@@ -20,7 +20,7 @@
 </a>
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krushna-Prasad-Sahoo&show_icons=true&locale=en&layout=compact" alt="ishikagarg-ig" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krushna-Prasad-Sahoo&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="ishikagarg-ig" /></p>
 
 <br/>
 
