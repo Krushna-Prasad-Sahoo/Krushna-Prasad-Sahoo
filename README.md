@@ -3,26 +3,27 @@
 ## Aloha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Krushna Prasad!](https://heykrushna.xyz/) 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=EDBB99&vCenter=true&lines=I+believe+in+...)
-
-#### `impossible == I'M POSSIBLE`
-#### `First DESERVE, then DESIRE`
-#### `MILES to go before I sleep`
-#### `Continuous Learning & Continuous Development`
-#### `Every MISTAKE you make, shows your PROGRESS`
-
-<br/>
 <a href="#">
     <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Krushna-Prasad-Sahoo&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" alt="my github stats" width="500"/><br/>
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushna-Prasad-Sahoo&layout=compact&theme=tokyonight" alt="languages" height="196">-->
     </p>
 </a>
-<br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krushna-Prasad-Sahoo&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="ishikagarg-ig" /></p>
 
-<br/>
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krushna-Prasad-Sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagarg-ig" /> </p>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=EDBB99&vCenter=true&lines=I+believe+in+...)
+#### `impossible == I'M POSSIBLE`
+#### `First DESERVE, then DESIRE`
+#### `MILES to go before I sleep`
+#### `Continuous Learning & Continuous Development`
+#### `Every MISTAKE you make, shows your PROGRESS`
+
+<hr />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff95&vCenter=true&lines=Wanna+share+your+idea+with+me%3F)
 
