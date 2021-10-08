@@ -10,12 +10,14 @@
     </p>
 </a>
 
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krushna-Prasad-Sahoo&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Thekrushna" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krushna-Prasad-Sahoo&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="ishikagarg-ig" /></p>
-<br/><br/><br/><br/><br/><br/><br/><br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krushna-Prasad-Sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagarg-ig" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krushna-Prasad-Sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="Thekrushna" /> </p>
+</div>
+    
+<!--    
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=EDBB99&vCenter=true&lines=I+believe+in+...)
 #### `impossible == I'M POSSIBLE`
 #### `First DESERVE, then DESIRE`
@@ -24,8 +26,11 @@
 #### `Every MISTAKE you make, shows your PROGRESS`
 
 <hr />
+-->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff95&vCenter=true&lines=Wanna+share+your+idea+with+me%3F)
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff95&vCenter=true&lines=Wanna+share+your+ideas+with+me%3F)
 
 <a href="https://www.linkedin.com/in/krushna-prasad/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -40,7 +45,11 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-<br />
+
+<br /><br />
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krushna-Prasad-Sahoo&no-frame=true&row=1&column=7&theme=radical" alt="Thekrushna" /></a> </p>
 
 
 <!--
