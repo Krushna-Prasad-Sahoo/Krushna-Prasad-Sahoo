@@ -6,16 +6,21 @@
 
 <a href="#">
     <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Krushna-Prasad-Sahoo&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" alt="my github stats" width="500"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Krushna-Prasad-Sahoo&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" alt="my github stats" width="450"/><br/>
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushna-Prasad-Sahoo&layout=compact&theme=tokyonight" alt="languages" height="196">-->
     </p>
 </a>
+
+<p align='left'>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Krushna-Prasad-Sahoo&theme=tokyonight" width="400" title="Github Streak Stats"></a>
+</p>
 
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krushna-Prasad-Sahoo&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Thekrushna" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krushna-Prasad-Sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="Thekrushna" /> </p>
+
 </div>
     
 <!--    
@@ -50,8 +55,11 @@
 <br /><br /><br />
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krushna-Prasad-Sahoo&no-frame=true&row=1&column=7&theme=radical" alt="Thekrushna" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krushna-Prasad-Sahoo&no-frame=true&row=1&column=7&theme=radical" alt="Thekrushna" /></a> </p><hr /><br />
 
+<p align='center'>
+	<b>Do you like my contributions ? Nominate me for <a href='https://stars.github.com/nominate/'>Github Stars ⭐</a></b>
+</p>
 
 <!--
 
