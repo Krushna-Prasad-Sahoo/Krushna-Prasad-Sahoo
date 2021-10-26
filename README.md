@@ -18,7 +18,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krushna-Prasad-Sahoo&show_icons=true&locale=en&theme=chartreuse-dark&layout=compact" alt="Thekrushna" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krushna-Prasad-Sahoo&label=Profile%20views&color=BFFF00&style=flat" alt="Thekrushna" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krushna-Prasad-Sahoo&label=Profile%20views&color=23d3c3&style=flat" alt="Thekrushna" /> </p>
 
 </div>
     
@@ -35,7 +35,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=aa3495&vCenter=true&lines=Wanna+share+your+ideas+with+me%3F)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=90eae4&vCenter=true&lines=Wanna+share+your+ideas+with+me%3F)
 
 <a href="https://www.linkedin.com/in/krushna-prasad/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -54,7 +54,7 @@
 <br /><br /><br />
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krushna-Prasad-Sahoo&no-frame=true&row=1&column=7&theme=monokai" alt="Thekrushna" /></a> </p><hr /><br />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krushna-Prasad-Sahoo&no-frame=true&row=1&column=7&theme=radical" alt="Thekrushna" /></a> </p><hr /><br />
 
 <p align='center'>
 	<b>Do you like my contributions ? Nominate me for <a href='https://stars.github.com/nominate/'>Github Stars ⭐</a></b>
