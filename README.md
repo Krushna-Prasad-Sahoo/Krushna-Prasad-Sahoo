@@ -18,7 +18,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krushna-Prasad-Sahoo&show_icons=true&locale=en&theme=chartreuse-dark&layout=compact" alt="Thekrushna" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krushna-Prasad-Sahoo&label=Profile%20views&color=de75bf&style=flat" alt="Thekrushna" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krushna-Prasad-Sahoo&label=Profile%20views&color=BFFF00&style=flat" alt="Thekrushna" /> </p>
 
 </div>
     
