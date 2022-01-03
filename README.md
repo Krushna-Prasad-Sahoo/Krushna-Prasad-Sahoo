@@ -3,6 +3,35 @@
 #### Thanks for checking out my profile.
 
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+
+I am a Full Stack Developer with 8+ years of experience in developing enterprise applications and open-source software.
+
+### My Opensource Story
+
+[⏩ &nbsp; and many more]() 
+
+```
+  ____                  ____                      
+ / __ \___  ___ ___    / __/__  __ _____________  
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
+   _/_/                  __  __   _               
+  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
+ / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
+/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                 /___/                /___/       
+```
+
+### Awards and Achievements
+- Won the 1st edition of [GitHub India Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
+- Worked as [DuckDuckGo Community Leader](https://help.duckduckgo.com/community/community-leaders/) and Maintainer
+- Won 1st place in Several Hackathons
+</details> 
+
 <!--![](https://socialify.git.ci/Krushna-Prasad-Sahoo/Krushna-Prasad-Sahoo/image?description=1&descriptionEditable=%E2%9C%94%20Welcome%20to%20my%20profile.%20&font=KoHo&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64131038%3Fv%3D4&pattern=Diagonal%20Stripes&stargazers=1&theme=Dark)-->
 
 <a href="#">
