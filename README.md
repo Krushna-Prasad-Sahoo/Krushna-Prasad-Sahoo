@@ -121,6 +121,8 @@ Coming soon ...
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s an SSL Certificate ?](https://medium.com/@kp-the-great/whats-an-ssl-certificate-e1767ee3d9ed?source=rss-47dc983f8f6f------2)
+- [User Creation in RHEL8 and assigning multiple permissions &lpar;including sudo privilege&rpar; …](https://medium.com/@kp-the-great/user-creation-in-rhel8-and-assigning-multiple-permissions-including-sudo-privilege-f9cce1b6378?source=rss-47dc983f8f6f------2)
 <!-- BLOG-POST-LIST:END -->
 
 
