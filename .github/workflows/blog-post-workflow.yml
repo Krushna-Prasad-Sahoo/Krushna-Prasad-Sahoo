@@ -14,5 +14,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/@kp-the-great"
+          feed_list: "https://medium.com/feed/@kp-the-great"
           max_post_count: "2"
