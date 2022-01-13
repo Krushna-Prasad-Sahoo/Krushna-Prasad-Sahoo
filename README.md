@@ -59,6 +59,20 @@ Coming soon ...
 </details>
 
 
+<details>
+  <summary><b>✨&nbsp;&nbsp;My Articles & Blogs</b></summary>
+	<br />
+	
+<!-- BLOG-POST-LIST:START -->
+- [What’s an SSL Certificate ?](https://medium.com/@kp-the-great/whats-an-ssl-certificate-e1767ee3d9ed?source=rss-47dc983f8f6f------2)
+- [User Creation in RHEL8 and assigning multiple permissions &lpar;including sudo privilege&rpar; …](https://medium.com/@kp-the-great/user-creation-in-rhel8-and-assigning-multiple-permissions-including-sudo-privilege-f9cce1b6378?source=rss-47dc983f8f6f------2)
+<!-- BLOG-POST-LIST:END -->
+	
+<br />
+</details> 
+
+
+
 <!--![](https://socialify.git.ci/Krushna-Prasad-Sahoo/Krushna-Prasad-Sahoo/image?description=1&descriptionEditable=%E2%9C%94%20Welcome%20to%20my%20profile.%20&font=KoHo&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64131038%3Fv%3D4&pattern=Diagonal%20Stripes&stargazers=1&theme=Dark)-->
 
 <a href="#">
@@ -116,16 +130,6 @@ Coming soon ...
 <p align='center'>
 	<b>Do you like my contributions ? Nominate me for <a href='https://stars.github.com/nominate/'>Github Stars ⭐</a></b>
 </p>
-
-
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [What’s an SSL Certificate ?](https://medium.com/@kp-the-great/whats-an-ssl-certificate-e1767ee3d9ed?source=rss-47dc983f8f6f------2)
-- [User Creation in RHEL8 and assigning multiple permissions &lpar;including sudo privilege&rpar; …](https://medium.com/@kp-the-great/user-creation-in-rhel8-and-assigning-multiple-permissions-including-sudo-privilege-f9cce1b6378?source=rss-47dc983f8f6f------2)
-<!-- BLOG-POST-LIST:END -->
-
-
 
 
 <!--
