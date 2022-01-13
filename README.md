@@ -60,7 +60,7 @@ Coming soon ...
 
 
 <details>
-  <summary><b>✨&nbsp;&nbsp;My Articles & Blogs</b></summary>
+  <summary><b>📕 &nbsp;&nbsp;My Articles & Blogs</b></summary>
 	<br />
 	
 <!-- BLOG-POST-LIST:START -->
