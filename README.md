@@ -66,6 +66,8 @@ Coming soon ...
 <!-- BLOG-POST-LIST:START -->
 - [What’s an SSL Certificate ?](https://medium.com/@kp-the-great/whats-an-ssl-certificate-e1767ee3d9ed?source=rss-47dc983f8f6f------2)
 - [User Creation in RHEL8 and assigning multiple permissions &lpar;including sudo privilege&rpar; …](https://medium.com/@kp-the-great/user-creation-in-rhel8-and-assigning-multiple-permissions-including-sudo-privilege-f9cce1b6378?source=rss-47dc983f8f6f------2)
+- [Mongo DB : The NoSQL Database](https://medium.com/@kp-the-great/mongo-db-the-nosql-database-3203cbdc3835?source=rss-47dc983f8f6f------2)
+- [Multi-Cloud Kubernetes Cluster Setup](https://medium.com/@kp-the-great/multi-cloud-kubernetes-cluster-setup-6dc96f287c45?source=rss-47dc983f8f6f------2)
 <!-- BLOG-POST-LIST:END -->
 	
 <br />
