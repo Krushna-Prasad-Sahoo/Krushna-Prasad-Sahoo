@@ -1,6 +1,5 @@
 
 ## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Krushna Prasad](https://heykrushna.xyz/)!
-#### Thanks for checking out my profile.
 
 
 <details>
@@ -8,6 +7,7 @@
   <br/>
 
 Coming soon ...
+#### Thanks for checking out my profile.
 	
 ### Awards and Achievements
 - Coming soon ...
