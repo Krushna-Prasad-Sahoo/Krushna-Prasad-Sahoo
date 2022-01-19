@@ -9,8 +9,8 @@
 Coming soon ...
 #### Thanks for checking out my profile.
 	
-### Awards and Achievements
-- Coming soon ...
+### My Global Certifications
+- Red Hat Certified Engineer
 	
 	
 ---
