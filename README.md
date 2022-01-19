@@ -9,7 +9,7 @@
 Coming soon ...
 #### Thanks for checking out my profile.
 	
-### My Global Certifications
+#### 🏅 My Global Certifications
 - Red Hat Certified Engineer
 - Microsoft Certified : Azure Administrator Associate
 	
