@@ -11,6 +11,7 @@ Coming soon ...
 	
 ### My Global Certifications
 - Red Hat Certified Engineer
+- Microsoft Certified : Azure Administrator Associate
 	
 	
 ---
