@@ -9,13 +9,14 @@
 	
 - Unlike other IT enthusiasts, I am highly inclined & passionate towards IT operations which includes amazing stuffs like Automation, Optimization, Infrastructure, Networking, Configurations, Monitoring, High Availability & Disaster Recovery Setup etc. 
 	
+- Though I have some experience in development like Web Development using HTML, CSS, JS, Bootstrap or WordPress or Python Flask, BPM solutions using Appian Platform however I just love to spend time on Linux terminals & servers, creating some personalized container images, experimenting in cloud platforms like AWS or AZ or GCP or automating stuffs using some tools like Ansible or Terraform or Python/Shell scripting etc.
+	
 #### 🏅 My Global Certifications
 - Red Hat Certified Engineer
 - Microsoft Certified : Azure Administrator Associate
 	
 	
 ---
-<br />
 </details> 
 
 
@@ -55,7 +56,6 @@
  </p>
 
 ---
-<br />
 
 </details>
 
