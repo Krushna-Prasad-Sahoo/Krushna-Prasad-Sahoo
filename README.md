@@ -1,11 +1,11 @@
 
-## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Krushna Prasad](https://heykrushna.xyz/)!
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Krushna Prasad](https://heykrushna.xyz/)!
 
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
 	
-- Hey, thanks for checking out my profile. This is Krushna, you can call me <strong>KP</strong> as well. 
+- Hey, A warm welcome my profile. This is Krushna, you can call me <strong>KP</strong> as well. 
 	
 - Unlike other IT enthusiasts, I am highly inclined & passionate towards IT operations which includes amazing stuffs like Automation, Optimization, Infrastructure, Networking, Configurations, Monitoring, High Availability & Disaster Recovery Setup etc. 
 	
