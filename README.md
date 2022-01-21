@@ -119,16 +119,16 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=90eae4&vCenter=true&lines=Wanna+share+your+ideas+with+me%3F)
 
 <a href="https://www.linkedin.com/in/krushna-prasad/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"  />
 </a>
 <a href="mailto:krushna.360degree@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />tile
 </a>
 <a href="https://www.youtube.com/channel/UCZCINysslGbXPQHXTIHea9w">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
 </a>
 <a href="https://medium.com/@kp-the-great">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
 </a>
 
 
