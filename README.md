@@ -77,7 +77,7 @@
 
 <details>
   <summary><b>:octocat: &nbsp;&nbsp;My&nbsp;GitHub Metadata</b></summary>
-	
+<br>	
 	
 <a href="#">
     <p>
