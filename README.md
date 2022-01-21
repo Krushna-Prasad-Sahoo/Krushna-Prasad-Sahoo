@@ -122,7 +122,7 @@
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"  />
 </a>
 <a href="mailto:krushna.360degree@gmail.com">
-  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />tile
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCZCINysslGbXPQHXTIHea9w">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
