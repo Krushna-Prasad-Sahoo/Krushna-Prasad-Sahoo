@@ -92,7 +92,9 @@
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krushna-Prasad-Sahoo&show_icons=true&locale=en&theme=chartreuse-dark&layout=compact" alt="Thekrushna" /></p>
 
-
+</div>
+	
+<div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krushna-Prasad-Sahoo&label=Profile%20views&color=23d3c3&style=flat" alt="Thekrushna" /> </p>
 
 </div>
@@ -113,8 +115,6 @@
 
 <hr />
 -->
-
-
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=90eae4&vCenter=true&lines=Wanna+share+your+ideas+with+me%3F)
 
