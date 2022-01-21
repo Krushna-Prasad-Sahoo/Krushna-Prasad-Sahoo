@@ -11,6 +11,8 @@
 	
 - Though I have some experience in development like Web Development using HTML, CSS, JS, Bootstrap or WordPress or Python Flask, BPM solutions using Appian Platform however I just love to spend time on Linux terminals & servers, creating some personalized container images, experimenting in cloud platforms like AWS or AZ or GCP or automating stuffs using some tools like Ansible or Terraform or Python/Shell scripting etc.
 	
+- 📫 How to reach me: Mail @ krushna.360degree@gmail.com or connect [here](https://www.linkedin.com/in/krushna-prasad/).
+	
 #### 🏅 My Global Certifications
 - Red Hat Certified Engineer
 - Microsoft Certified : Azure Administrator Associate
@@ -71,13 +73,11 @@
 - [Multi-Cloud Kubernetes Cluster Setup](https://medium.com/@kp-the-great/multi-cloud-kubernetes-cluster-setup-6dc96f287c45?source=rss-47dc983f8f6f------2)
 <!-- BLOG-POST-LIST:END -->
 	
-<br />
 </details> 
 
 <details>
   <summary><b>✨&nbsp;&nbsp;My&nbsp;GitHub Metadata</b></summary>
 	
-<br />
 	
 <a href="#">
     <p>
