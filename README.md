@@ -77,16 +77,8 @@
 <details>
   <summary><b>✨&nbsp;&nbsp;My&nbsp;GitHub Metadata</b></summary>
 	
-Metadata
+<br />
 	
-	
----
-</details> 
-
-
-
-<!--![](https://socialify.git.ci/Krushna-Prasad-Sahoo/Krushna-Prasad-Sahoo/image?description=1&descriptionEditable=%E2%9C%94%20Welcome%20to%20my%20profile.%20&font=KoHo&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64131038%3Fv%3D4&pattern=Diagonal%20Stripes&stargazers=1&theme=Dark)-->
-
 <a href="#">
     <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Krushna-Prasad-Sahoo&show_icons=true&theme=chartreuse-dark&count_private=true&show_icons=true&include_all_commits=false" alt="my github stats" width="450"/><br/>
@@ -104,6 +96,14 @@ Metadata
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krushna-Prasad-Sahoo&label=Profile%20views&color=23d3c3&style=flat" alt="Thekrushna" /> </p>
 
 </div>
+	
+	
+---
+</details> 
+
+
+<!--![](https://socialify.git.ci/Krushna-Prasad-Sahoo/Krushna-Prasad-Sahoo/image?description=1&descriptionEditable=%E2%9C%94%20Welcome%20to%20my%20profile.%20&font=KoHo&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64131038%3Fv%3D4&pattern=Diagonal%20Stripes&stargazers=1&theme=Dark)-->
+
     
 <!--    
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=EDBB99&vCenter=true&lines=I+believe+in+...)
