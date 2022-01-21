@@ -7,7 +7,7 @@
 	
 - Hey, thanks for checking out my profile. This is Krushna, you can call me <strong>KP</strong> as well. 
 	
-- Unlike other IT enthusiasts, I am highly inclined & passionate towards IT operations which includes amazing stuffs like Automation, Optimization, Infrastructure, Configurations, High Availability & Disaster Recovery Setup etc. 
+- Unlike other IT enthusiasts, I am highly inclined & passionate towards IT operations which includes amazing stuffs like Automation, Optimization, Infrastructure, Networking, Configurations, Monitoring, High Availability & Disaster Recovery Setup etc. 
 	
 #### 🏅 My Global Certifications
 - Red Hat Certified Engineer
