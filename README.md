@@ -17,6 +17,7 @@
 - Red Hat Certified Engineer
 - Microsoft Certified : Azure Administrator Associate
 - Microsoft Certified : Data Scientist Associate
+- Aviatrix Certified Multi Cloud Networking Associate
 	
 	
 ---
