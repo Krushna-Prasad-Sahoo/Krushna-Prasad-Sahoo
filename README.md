@@ -19,6 +19,7 @@
 - Microsoft Certified : Data Scientist Associate
 - Aviatrix Certified Multi Cloud Networking Associate
 - Certified Secure Computer User (EC-Council)
+- Microsft Technology Associate in Networking
 	
 	
 ---
