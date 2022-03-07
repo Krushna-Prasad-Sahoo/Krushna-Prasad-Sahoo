@@ -16,6 +16,7 @@
 #### 🏅 My Global Certifications
 - Red Hat Certified Specialist in Containers & Kubernetes
 - Red Hat Certified Engineer
+- Google Cloud Certified : Associate Cloud Engineer
 - Microsoft Certified : Azure Administrator Associate
 - Microsoft Certified : Data Scientist Associate
 - Aviatrix Certified Multi Cloud Networking Associate
