@@ -14,8 +14,8 @@
 - 📫 How to reach me: Mail @ krushna.360degree@gmail.com or connect [here](https://www.linkedin.com/in/krushna-prasad/).
 	
 #### 🏅 My Global Certifications
-- Red Hat Certified Specialist in Containers & Kubernetes
 - Red Hat Certified Engineer
+- Red Hat Certified Specialist in Containers & Kubernetes
 - Google Cloud Certified : Associate Cloud Engineer
 - Microsoft Certified : Azure Administrator Associate
 - Microsoft Certified : Data Scientist Associate
