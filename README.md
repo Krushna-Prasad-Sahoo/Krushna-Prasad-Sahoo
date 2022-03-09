@@ -17,6 +17,7 @@
 - Red Hat Certified Engineer
 - Red Hat Certified Specialist in Containers & Kubernetes
 - Google Cloud Certified : Associate Cloud Engineer
+- Microsoft Certified : Azure Solutions Architect Expert
 - Microsoft Certified : Azure Administrator Associate
 - Microsoft Certified : Data Scientist Associate
 - Aviatrix Certified Multi Cloud Networking Associate
