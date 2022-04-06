@@ -11,6 +11,8 @@
 	
 - Though I have some experience in development like Web Development using HTML, CSS, JS, Bootstrap or WordPress or Python Flask, BPM solutions using Appian Platform however I just love to spend time on Linux terminals & servers, creating some personalized container images, experimenting in cloud platforms like AWS or AZ or GCP or automating stuffs using some tools like Ansible or Terraform or Python/Shell scripting etc.
 	
+- And finally
+	
 - 📫 How to reach me: Send a mail [here](mailto:krushna.360degree@gmail.com) or connect [here](https://www.linkedin.com/in/krushna-prasad/).
 	
 #### 🏅 My Global Certifications
