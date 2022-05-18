@@ -5,7 +5,7 @@
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
 	
-- Hey, A warm welcome to my profile. This is <strong>KP</strong>. 
+- Hey, a warm welcome to my profile. This is <strong>KP</strong>. 
 	
 - Unlike other IT enthusiasts, I am highly inclined & passionate towards IT operations which includes amazing stuffs like Automation, Optimization, Infrastructure, Networking, Configurations, Monitoring, High Availability & Disaster Recovery Setup etc. 
 	
