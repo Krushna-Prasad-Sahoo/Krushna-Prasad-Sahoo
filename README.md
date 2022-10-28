@@ -145,9 +145,10 @@
 <br /><br /><br />
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krushna-Prasad-Sahoo&no-frame=true&row=1&column=7&theme=radical" alt="Thekrushna" /></a> </p><hr /><br />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krushna-Prasad-Sahoo&no-frame=true&row=1&column=7&theme=radical" alt="Thekrushna" /></a> </p>
 
 [![@krushnap99's Holopin board](https://holopin.me/krushnap99)](https://holopin.io/@krushnap99)
+<hr /><br />
 
 <p align='center'>
 	<b>Do you like my contributions ? Nominate me for <a href='https://stars.github.com/nominate/'>Github Stars ⭐</a></b>
