@@ -76,11 +76,11 @@
 	<br />
 	
 <!-- BLOG-POST-LIST:START -->
+- [Commonly used Micro Service Design Principles &amp; Patterns.](https://medium.com/@kp-the-great/commonly-used-micro-service-design-principles-patterns-b53f645aeb57?source=rss-47dc983f8f6f------2)
 - [Demystifying Microservices](https://medium.com/@kp-the-great/demystifying-microservices-281411c2a0c2?source=rss-47dc983f8f6f------2)
 - [The Magic Box- JVM](https://medium.com/@kp-the-great/the-magic-box-jvm-a18693a5385d?source=rss-47dc983f8f6f------2)
 - [Learn DevOps for Free This Week | Grab it right Now](https://medium.com/@kp-the-great/learn-devops-for-free-this-week-grab-it-right-now-994a0ac0f63c?source=rss-47dc983f8f6f------2)
 - [OpenShift Local Lab Setup on RHEL VM](https://medium.com/@kp-the-great/openshift-local-lab-setup-on-rhel-vm-a81061e99a8e?source=rss-47dc983f8f6f------2)
-- [Want to get Certified in Google Cloud? For free](https://medium.com/@kp-the-great/want-to-get-certified-in-google-cloud-for-free-95a752d21a0f?source=rss-47dc983f8f6f------2)
 <!-- BLOG-POST-LIST:END -->
 	
 </details> 
