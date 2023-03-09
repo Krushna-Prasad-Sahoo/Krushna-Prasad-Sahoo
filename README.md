@@ -76,11 +76,11 @@
 	<br />
 	
 <!-- BLOG-POST-LIST:START -->
+- [Automating AWS Instance Launch &amp; EBS Volume Attachment with CLI Commands](https://medium.com/@kp-the-great/automating-aws-instance-launch-ebs-volume-attachment-with-cli-commands-25385ad9e9c1?source=rss-47dc983f8f6f------2)
 - [Journey to the North: Experiencing the Beauty of the Northern Lights](https://medium.com/@kp-the-great/journey-to-the-north-experiencing-the-beauty-of-the-northern-lights-5e6ae455eb79?source=rss-47dc983f8f6f------2)
 - [Commonly used Micro Service Design Principles &amp; Patterns.](https://medium.com/@kp-the-great/commonly-used-micro-service-design-principles-patterns-b53f645aeb57?source=rss-47dc983f8f6f------2)
 - [Demystifying Microservices](https://medium.com/@kp-the-great/demystifying-microservices-281411c2a0c2?source=rss-47dc983f8f6f------2)
 - [The Magic Box- JVM](https://medium.com/@kp-the-great/the-magic-box-jvm-a18693a5385d?source=rss-47dc983f8f6f------2)
-- [Learn DevOps for Free This Week | Grab it right Now](https://medium.com/@kp-the-great/learn-devops-for-free-this-week-grab-it-right-now-994a0ac0f63c?source=rss-47dc983f8f6f------2)
 <!-- BLOG-POST-LIST:END -->
 	
 </details> 
