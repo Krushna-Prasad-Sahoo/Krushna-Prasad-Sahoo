@@ -1,5 +1,7 @@
 
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">, I'm [Krushna Prasad](https://heykrushna.xyz/)!
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">, I'm Krushna Prasad.
+
+<!--(https://heykrushna.xyz/)!-->
 
 
 <details>
