@@ -1,5 +1,5 @@
 
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">, I'm Krushna Prasad.
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> KP here...
 
 <!--(https://heykrushna.xyz/)!-->
 
@@ -7,15 +7,12 @@
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
 	
-- Hey, a warm welcome to my profile. This is <strong>KP</strong>. 
-	
-- Unlike other IT enthusiasts, I am highly inclined & passionate towards IT operations which includes amazing stuffs like Automation, Optimization, Infrastructure, Networking, Configurations, Monitoring, High Availability & Disaster Recovery Setup etc. 
+- Hey, a warm welcome to my profile. This is <strong>Krushna Prasad</strong>. I’m highly passionate about IT Operations, with a strong interest in Automation, Optimization, Infrastructure, Networking, System Configuration, Monitoring, High Availability, and Disaster Recovery solutions.
+
 	
 - Though I have some experience in development like Web Development using HTML, CSS, JS, Bootstrap or WordPress or Python Flask, BPM solutions using Appian Platform however I just love to spend time on Linux terminals & servers, creating some personalized container images, experimenting in cloud platforms like AWS or AZ or GCP or automating stuffs using some tools like Ansible or Terraform or Python/Shell scripting etc.
 	
-- And finally I have joined my dream organisation, <b>Red Hat</b>.
-	
-- 📫 How to reach me: Send a mail [here](mailto:krushna.360degree@gmail.com) or connect [here](https://www.linkedin.com/in/krushna-prasad/).
+- And finally I have joined my dream organisation, <b>Red Hat</b>. Connect [here](https://www.linkedin.com/in/krushna-prasad/) to have a casual conversation or a serious tech talk.
 	
 #### 🏅 My Global Certifications
 - Red Hat Certified Engineer
@@ -94,23 +91,23 @@
   <summary><b>:octocat: &nbsp;&nbsp;My&nbsp;GitHub Metadata</b></summary>
 <br>	
 	
-<a href="#">
+<!--<a href="#">
     <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Krushna-Prasad-Sahoo&show_icons=true&theme=chartreuse-dark&count_private=true&show_icons=true&include_all_commits=false" alt="my github stats" width="450"/><br/>
     </p>
-</a>
+</a>-->
 
-<p align='left'>
+<p align='center'>
 <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Krushna-Prasad-Sahoo&theme=chartreuse-dark" width="400" title="Github Streak Stats"></a>
 </p>
 
-<div>
+<!--<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krushna-Prasad-Sahoo&show_icons=true&locale=en&theme=chartreuse-dark&layout=compact" alt="Thekrushna" /></p>
 
-</div>
+</div>-->
 	
 <div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krushna-Prasad-Sahoo&label=Profile%20views&color=23d3c3&style=flat" alt="Thekrushna" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Krushna-Prasad-Sahoo&label=Profile%20views&color=23d3c3&style=flat" alt="Thekrushna" /> </p>
 
 </div>
 	
@@ -149,11 +146,13 @@
 
 <br /><br /><br />
 
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krushna-Prasad-Sahoo&no-frame=true&row=1&column=7&theme=radical" alt="Thekrushna" /></a> </p>
 
 [![@krushnap99's Holopin board](https://holopin.me/krushnap99)](https://holopin.io/@krushnap99)
 <hr /><br />
+
+-->
 
 <p align='center'>
 	<b>Do you like my contributions ? Nominate me for <a href='https://stars.github.com/nominate/'>Github Stars ⭐</a></b>
@@ -177,15 +176,3 @@
 -->
 <!--
 **Krushna-Prasad-Sahoo/Krushna-Prasad-Sahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: krushna.360degree@gmail.com
-- 😄 Pronouns: His/Him
-- ⚡ Fun fact: ...
--->
